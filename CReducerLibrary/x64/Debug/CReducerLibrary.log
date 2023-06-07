@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  CReducer.cpp
+C:\687_demo3\CSE687_ProjectPhase3\CReducerLibrary\CReducer.cpp(49,29): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  dllmain.cpp
+  Generating Code...
+     Creating library C:\687_demo3\CSE687_ProjectPhase3\x64\Debug\CReducerLibrary.lib and object C:\687_demo3\CSE687_ProjectPhase3\x64\Debug\CReducerLibrary.exp
+  CReducerLibrary.vcxproj -> C:\687_demo3\CSE687_ProjectPhase3\x64\Debug\CReducerLibrary.dll

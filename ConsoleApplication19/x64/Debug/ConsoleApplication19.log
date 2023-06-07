@@ -1,0 +1,10 @@
+﻿  CFileManager.cpp
+  CMap.cpp
+  ConsoleApplication19.cpp
+C:\687_demo3\CSE687_ProjectPhase3\ConsoleApplication19\ConsoleApplication19.cpp(270,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\687_demo3\CSE687_ProjectPhase3\ConsoleApplication19\ConsoleApplication19.cpp(281,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CReducer.cpp
+C:\687_demo3\CSE687_ProjectPhase3\ConsoleApplication19\CReducer.cpp(26,17): warning C4101: 'count': unreferenced local variable
+  Generating Code...
+C:\687_demo3\CSE687_ProjectPhase3\ConsoleApplication19\CFileManager.cpp(43): warning C4715: 'CFileManager::isValidDirectory': not all control paths return a value
+  ConsoleApplication19.vcxproj -> C:\687_demo3\CSE687_ProjectPhase3\x64\Debug\ConsoleApplication19.exe
